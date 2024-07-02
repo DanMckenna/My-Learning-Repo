@@ -1,2 +1,2 @@
-# git_test
-Hello world!
+# Welcome to my Learning Repo!
+This repository contains various projects that I have worked on to help me practice and learn different types of programming and technologies. Some projects were self-imposed by myself while others were created as part of exercises from online courses and learning sites (The Odin Project).
