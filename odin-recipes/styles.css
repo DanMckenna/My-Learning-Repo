@@ -1,0 +1,27 @@
+/* Styles for the body of the website */
+body {
+  background-color: rgb(243, 227, 185);
+}
+
+/* Styles for the website header */
+.websiteHeader {
+  font-family: "Times New Roman";
+  text-align: center;
+}
+
+/* Styles for the content of the webpage */
+div {
+    margin-left: 25%; /* add margins to the left-side of the screen */
+}
+
+/* Styles for the list of recipe links on the homepage */
+.recipeList {
+  padding: 0; /* remove padding/indentation */
+  list-style-type: none; /* remove bullet points from all list items */
+}
+
+/* Styles for the ingredients and steps headers */
+.ingredientsHeader,
+.stepsHeader {
+  text-decoration: underline;
+}
